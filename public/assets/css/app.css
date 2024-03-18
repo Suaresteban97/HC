@@ -1,0 +1,257 @@
+* {
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url('../../nature-background.jpg');
+  background-position: -230px 0;
+  background-size: 120%;
+  background-position-y: -80px;
+  position: relative;
+  height: 100%;
+}
+
+/* Header style */
+
+.nav-container {
+    padding: 5px 30px; 
+}  
+
+/* Footer */
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    z-index: 1;
+    background-color: #4D5656;
+}
+
+
+/* Containers */
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.container-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Home View Styles */
+
+#title-container{
+    padding-top: 10px;
+}
+
+.description-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 30%;
+    margin: 0;
+}
+
+/* Maps View styles */
+
+.filters{
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.map-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100%;
+    z-index: 0;
+  }
+
+#map {
+    height: 400px;
+    width: 700px;
+}
+
+#map-detail {
+    height: 300px;
+    width: 700px;
+}
+
+.position-relative {
+    position: relative;
+  }
+  
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000; /* Asegura que el menú esté por encima de otros elementos */
+}
+  
+/* Detail */
+
+.card {
+    width: 18rem;
+    margin-bottom: 1rem;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    width: 30%;
+    margin: 0;
+}
+
+.detail-map-container {
+    display: flex; 
+    justify-content: center; 
+    width: 70vh;
+    height: 30%;
+    margin: 0;
+}
+
+
+
+/* Barra lateral */
+
+.sidebar-container {
+    position: relative;
+  }
+   
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100vh;
+    background-color: #333;
+    color: #fff;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Modificado */
+  }
+  
+  .sidebar.active {
+    transform: translateX(0%);
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+    margin-top: 40px;
+  }
+  
+  .menu li {
+    padding: 10px;
+  }
+  
+  .menu li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .content {
+    margin-left: 250px;
+    padding: 20px;
+  }
+  
+
+  .menu-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .resume-index {
+    font-size: 18px; 
+    font-weight: bold;
+  }
+  
+  .menu-button.active {
+    background-color: #fff;
+  }
+  
+  .menu-icon {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background-color: #fff;
+    position: relative;
+    transform-origin: center;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  .menu-icon::before,
+  .menu-icon::after {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    background-color: #fff;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  .menu-icon::before {
+    top: -6px;
+    transition-delay: 0.1s;
+  }
+  
+  .menu-icon::after {
+    top: 6px;
+    transition-delay: 0.1s;
+  }
+  
+  .menu-button:hover .menu-icon,
+  .menu-button.active .menu-icon {
+    background-color: #333;
+  }
+  
+  .menu-button:hover .menu-icon::before,
+  .menu-button.active .menu-icon::before {
+    background-color: #333;
+    transform: translateY(6px) rotate(45deg);
+  }
+  
+  .menu-button:hover .menu-icon::after,
+  .menu-button.active .menu-icon::after {
+    background-color: #333;
+    transform: translateY(-6px) rotate(-45deg);
+  }
+  
+  .green-background {
+    background-color: #eaf7e6; /* Color verde sutil de tu elección */
+  }
+  
