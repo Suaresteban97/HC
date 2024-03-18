@@ -1,0 +1,2010 @@
+[
+ {
+  "hc_code": 1,
+  "chips": "AAA0169CALW"
+ },
+ {
+  "hc_code": 2,
+  "chips": "AAA0068ZYRJ"
+ },
+ {
+  "hc_code": 3,
+  "chips": "AAA0049DXFZ,AAA0049DXEP,AAA0049DXHK,AAA0184FPSY,AAA0047EJXR,AAA0047EJZM"
+ },
+ {
+  "hc_code": 4,
+  "chips": "AAA0074NLDE"
+ },
+ {
+  "hc_code": 5,
+  "chips": "AAA0034SHBR"
+ },
+ {
+  "hc_code": 6,
+  "chips": "AAA0150NJKL,AAA0159XCUZ"
+ },
+ {
+  "hc_code": 7,
+  "chips": "AAA0090LJSY"
+ },
+ {
+  "hc_code": 8,
+  "chips": "AAA0200XJFT,AAA0228HPAF"
+ },
+ {
+  "hc_code": 9,
+  "chips": "AAA0172TDWF"
+ },
+ {
+  "hc_code": 10,
+  "chips": "AAA0173PHHK"
+ },
+ {
+  "hc_code": 11,
+  "chips": "AAA0075UEJH,AAA0075UEKL"
+ },
+ {
+  "hc_code": 13,
+  "chips": "AAA0123ELDE"
+ },
+ {
+  "hc_code": 14,
+  "chips": "AAA0101SBXS"
+ },
+ {
+  "hc_code": 15,
+  "chips": "AAA0109EFWW"
+ },
+ {
+  "hc_code": 16,
+  "chips": "AAA0086KHEP"
+ },
+ {
+  "hc_code": 17,
+  "chips": "AAA0060BTUZ"
+ },
+ {
+  "hc_code": 18,
+  "chips": "AAA0088KSHY"
+ },
+ {
+  "hc_code": 19,
+  "chips": "AAA0086ACTO"
+ },
+ {
+  "hc_code": 20,
+  "chips": "AAA0074LZXS,AAA0074LZWW"
+ },
+ {
+  "hc_code": 21,
+  "chips": "AAA0198CFWW"
+ },
+ {
+  "hc_code": 22,
+  "chips": "AAA0045ZOLW"
+ },
+ {
+  "hc_code": 23,
+  "chips": "AAA0170JHTO"
+ },
+ {
+  "hc_code": 24,
+  "chips": "AAA0060MYRU"
+ },
+ {
+  "hc_code": 25,
+  "chips": "AAA0112ORAW"
+ },
+ {
+  "hc_code": 26,
+  "chips": "AAA0035OYRU"
+ },
+ {
+  "hc_code": 27,
+  "chips": "AAA0030WUHK"
+ },
+ {
+  "hc_code": 28,
+  "chips": "AAA0049WFYX"
+ },
+ {
+  "hc_code": 29,
+  "chips": "AAA0091PUOM"
+ },
+ {
+  "hc_code": 30,
+  "chips": "AAA0194RBJH"
+ },
+ {
+  "hc_code": 31,
+  "chips": "AAA0217CZZE"
+ },
+ {
+  "hc_code": 32,
+  "chips": "AAA0019JREA,AAA0019JRFT"
+ },
+ {
+  "hc_code": 33,
+  "chips": "AAA0141CTYN,AAA0156PUHK,AAA0156PUJZ,AAA0156RAPA"
+ },
+ {
+  "hc_code": 34,
+  "chips": "AAA0117MDKL"
+ },
+ {
+  "hc_code": 35,
+  "chips": "AAA0170THNN"
+ },
+ {
+  "hc_code": 36,
+  "chips": "AAA0207EXLW"
+ },
+ {
+  "hc_code": 37,
+  "chips": "AAA0131JMWF"
+ },
+ {
+  "hc_code": 38,
+  "chips": "AAA0198PEUH"
+ },
+ {
+  "hc_code": 39,
+  "chips": "AAA0075UXNX"
+ },
+ {
+  "hc_code": 40,
+  "chips": "AAA0039UCRU"
+ },
+ {
+  "hc_code": 41,
+  "chips": "AAA0062CPOM,AAA0062CPPA"
+ },
+ {
+  "hc_code": 42,
+  "chips": "AAA0018KDNN"
+ },
+ {
+  "hc_code": 43,
+  "chips": "AAA0032RSMS"
+ },
+ {
+  "hc_code": 44,
+  "chips": "AAA0012TJRJ"
+ },
+ {
+  "hc_code": 45,
+  "chips": "AAA0059HMXS"
+ },
+ {
+  "hc_code": 46,
+  "chips": "AAA0073SASK"
+ },
+ {
+  "hc_code": 47,
+  "chips": "AAA0056ROEA"
+ },
+ {
+  "hc_code": 48,
+  "chips": "AAA0209HAUZ"
+ },
+ {
+  "hc_code": 49,
+  "chips": "AAA0049XLXS"
+ },
+ {
+  "hc_code": 50,
+  "chips": "AAA0144ENUZ,AAA0144ENSK"
+ },
+ {
+  "hc_code": 51,
+  "chips": "AAA0163OYFT"
+ },
+ {
+  "hc_code": 52,
+  "chips": "AAA0137YRMS"
+ },
+ {
+  "hc_code": 53,
+  "chips": "AAA0169LLCX"
+ },
+ {
+  "hc_code": 54,
+  "chips": "AAA0112BTNN,AAA0112BTMS,AAA0112BTLW"
+ },
+ {
+  "hc_code": 55,
+  "chips": "AAA0188BKNN"
+ },
+ {
+  "hc_code": 56,
+  "chips": "AAA0217OWYX,AAA0230PJJZ"
+ },
+ {
+  "hc_code": 57,
+  "chips": "AAA0058MSMR"
+ },
+ {
+  "hc_code": 58,
+  "chips": "AAA0085PLLF"
+ },
+ {
+  "hc_code": 59,
+  "chips": "AAA0072LEXR"
+ },
+ {
+  "hc_code": 60,
+  "chips": "AAA0160DWUZ"
+ },
+ {
+  "hc_code": 61,
+  "chips": "AAA0171RKCX"
+ },
+ {
+  "hc_code": 62,
+  "chips": "AAA0181NUEP"
+ },
+ {
+  "hc_code": 63,
+  "chips": "AAA0167UNJZ"
+ },
+ {
+  "hc_code": 64,
+  "chips": "AAA0035RSTD"
+ },
+ {
+  "hc_code": 65,
+  "chips": "AAA0157PMYX,AAA0157PMXR"
+ },
+ {
+  "hc_code": 66,
+  "chips": "AAA0013PTBR"
+ },
+ {
+  "hc_code": 67,
+  "chips": "AAA0124BRNX,AAA0124BROM"
+ },
+ {
+  "hc_code": 68,
+  "chips": "AAA0182WBWF"
+ },
+ {
+  "hc_code": 69,
+  "chips": "AAA0073NECN"
+ },
+ {
+  "hc_code": 70,
+  "chips": "AAA0034ARAF"
+ },
+ {
+  "hc_code": 71,
+  "chips": "AAA0105WBBS"
+ },
+ {
+  "hc_code": 72,
+  "chips": "AAA0202DRAF"
+ },
+ {
+  "hc_code": 73,
+  "chips": "AAA0052YKCN"
+ },
+ {
+  "hc_code": 74,
+  "chips": "AAA0013HUFZ"
+ },
+ {
+  "hc_code": 75,
+  "chips": "AAA0179PPUH"
+ },
+ {
+  "hc_code": 76,
+  "chips": "AAA0123CRAW"
+ },
+ {
+  "hc_code": 77,
+  "chips": "AAA0233JHNN"
+ },
+ {
+  "hc_code": 78,
+  "chips": "AAA0083OWLF"
+ },
+ {
+  "hc_code": 79,
+  "chips": "AAA0061KTEA"
+ },
+ {
+  "hc_code": 80,
+  "chips": "AAA0257OCPP"
+ },
+ {
+  "hc_code": 81,
+  "chips": "AAA0034NCXR"
+ },
+ {
+  "hc_code": 82,
+  "chips": "AAA0059CBOM,AAA0258CNMS,AAA0258CNNN,AAA0258CMOM"
+ },
+ {
+  "hc_code": 83,
+  "chips": "AAA0148LAJH"
+ },
+ {
+  "hc_code": 84,
+  "chips": "AAA0012NCUZ"
+ },
+ {
+  "hc_code": 85,
+  "chips": "AAA0001KNWF"
+ },
+ {
+  "hc_code": 86,
+  "chips": "AAA0050EWWW,AAA0050EWXS,AAA0050EWYN,AAA0050EXJH,AAA0050EWZE,AAA0050EXHY,AAA0050EXAF,AAA0050EXEA,AAA0050EXCX,AAA0050EXBR"
+ },
+ {
+  "hc_code": 87,
+  "chips": "AAA0102HNUH"
+ },
+ {
+  "hc_code": 88,
+  "chips": "AAA0013SXFZ"
+ },
+ {
+  "hc_code": 89,
+  "chips": "AAA0079MXHK"
+ },
+ {
+  "hc_code": 90,
+  "chips": "AAA0041NBMR"
+ },
+ {
+  "hc_code": 91,
+  "chips": "AAA0072DUWF"
+ },
+ {
+  "hc_code": 92,
+  "chips": "AAA0072REWF"
+ },
+ {
+  "hc_code": 93,
+  "chips": "AAA0062KHOM"
+ },
+ {
+  "hc_code": 94,
+  "chips": "AAA0159YSKC"
+ },
+ {
+  "hc_code": 95,
+  "chips": "AAA0184BXOM"
+ },
+ {
+  "hc_code": 96,
+  "chips": "AAA0163LSWW"
+ },
+ {
+  "hc_code": 97,
+  "chips": "AAA0126OULF"
+ },
+ {
+  "hc_code": 98,
+  "chips": "AAA0232JNBS"
+ },
+ {
+  "hc_code": 99,
+  "chips": "AAA0162OBLW"
+ },
+ {
+  "hc_code": 100,
+  "chips": "AAA0074NBZE"
+ },
+ {
+  "hc_code": 101,
+  "chips": "AAA0077HXOE,AAA0077HXFT"
+ },
+ {
+  "hc_code": 102,
+  "chips": "AAA0162NHUH"
+ },
+ {
+  "hc_code": 103,
+  "chips": "AAA0023DZTD"
+ },
+ {
+  "hc_code": 104,
+  "chips": "AAA0251BUNX"
+ },
+ {
+  "hc_code": 105,
+  "chips": "AAA0163JURJ"
+ },
+ {
+  "hc_code": 106,
+  "chips": "AAA0041PTYN"
+ },
+ {
+  "hc_code": 107,
+  "chips": "AAA0179OTXR"
+ },
+ {
+  "hc_code": 108,
+  "chips": "AAA0072MAPA"
+ },
+ {
+  "hc_code": 109,
+  "chips": "AAA0080KECX"
+ },
+ {
+  "hc_code": 110,
+  "chips": "AAA0035ODHK"
+ },
+ {
+  "hc_code": 111,
+  "chips": "AAA0043APJH"
+ },
+ {
+  "hc_code": 112,
+  "chips": "AAA0094MFTO"
+ },
+ {
+  "hc_code": 113,
+  "chips": "AAA0023NTZE"
+ },
+ {
+  "hc_code": 114,
+  "chips": "AAA0014JULW"
+ },
+ {
+  "hc_code": 115,
+  "chips": "AAA0060NHPP,AAA0060NHOE,AAA0060NHRU,AAA0060NHSK"
+ },
+ {
+  "hc_code": 116,
+  "chips": "AAA0036PRRJ"
+ },
+ {
+  "hc_code": 117,
+  "chips": "AAA0159LUXR,AAA0190WPLF"
+ },
+ {
+  "hc_code": 118,
+  "chips": "AAA0007FRMR"
+ },
+ {
+  "hc_code": 119,
+  "chips": "AAA0195JWWF"
+ },
+ {
+  "hc_code": 120,
+  "chips": "AAA0034WTHY,AAA0034WTYX"
+ },
+ {
+  "hc_code": 121,
+  "chips": "AAA0241LRYN"
+ },
+ {
+  "hc_code": 122,
+  "chips": "AAA0159SWNX,AAA0023XZCN"
+ },
+ {
+  "hc_code": 123,
+  "chips": "AAA0028FTMS,AAA0028FTLW"
+ },
+ {
+  "hc_code": 124,
+  "chips": "AAA0051ESWF,AAA0051ESXR"
+ },
+ {
+  "hc_code": 125,
+  "chips": "AAA0083KCRJ"
+ },
+ {
+  "hc_code": 126,
+  "chips": "AAA0013MKYX,AAA0013MKXR"
+ },
+ {
+  "hc_code": 127,
+  "chips": "AAA0000OTOM"
+ },
+ {
+  "hc_code": 128,
+  "chips": "AAA0200EARU,AAA0023DKKL"
+ },
+ {
+  "hc_code": 129,
+  "chips": "AAA0131ZCTO"
+ },
+ {
+  "hc_code": 130,
+  "chips": "AAA0267RZTD,AAA0267RZUH"
+ },
+ {
+  "hc_code": 131,
+  "chips": "AAA0082NLBR"
+ },
+ {
+  "hc_code": 132,
+  "chips": "AAA0148JZSY"
+ },
+ {
+  "hc_code": 133,
+  "chips": "AAA0080SAMS,AAA0080SANN"
+ },
+ {
+  "hc_code": 134,
+  "chips": "AAA0085LZZE"
+ },
+ {
+  "hc_code": 135,
+  "chips": "AAA0074TARU"
+ },
+ {
+  "hc_code": 136,
+  "chips": "AAA0140JNOM"
+ },
+ {
+  "hc_code": 137,
+  "chips": "AAA0001KSXS"
+ },
+ {
+  "hc_code": 138,
+  "chips": "AAA0260FUXS"
+ },
+ {
+  "hc_code": 139,
+  "chips": "AAA0200MCXR"
+ },
+ {
+  "hc_code": 141,
+  "chips": "AAA0083OXRU"
+ },
+ {
+  "hc_code": 142,
+  "chips": "AAA0100HSCX"
+ },
+ {
+  "hc_code": 143,
+  "chips": "AAA0090TAXR"
+ },
+ {
+  "hc_code": 144,
+  "chips": "AAA0094WHBR,AAA0241DMSK"
+ },
+ {
+  "hc_code": 145,
+  "chips": "AAA0119SNBR"
+ },
+ {
+  "hc_code": 146,
+  "chips": "AAA0163NNLW"
+ },
+ {
+  "hc_code": 147,
+  "chips": "AAA0042CKLW"
+ },
+ {
+  "hc_code": 148,
+  "chips": "AAA0065ULHY"
+ },
+ {
+  "hc_code": 149,
+  "chips": "AAA0169XBFT"
+ },
+ {
+  "hc_code": 150,
+  "chips": "AAA0013JYLF"
+ },
+ {
+  "hc_code": 151,
+  "chips": "AAA0086JKDE"
+ },
+ {
+  "hc_code": 152,
+  "chips": "AAA0139OEHK"
+ },
+ {
+  "hc_code": 153,
+  "chips": "AAA0191NEEA,AAA0221WWJZ"
+ },
+ {
+  "hc_code": 154,
+  "chips": "AAA0143YDZE"
+ },
+ {
+  "hc_code": 155,
+  "chips": "AAA0195DHBS"
+ },
+ {
+  "hc_code": 156,
+  "chips": "AAA0197SCHK"
+ },
+ {
+  "hc_code": 157,
+  "chips": "AAA0064ORWW"
+ },
+ {
+  "hc_code": 158,
+  "chips": "AAA0115LOTO"
+ },
+ {
+  "hc_code": 159,
+  "chips": "AAA0060LTCX"
+ },
+ {
+  "hc_code": 160,
+  "chips": "AAA0207MECN"
+ },
+ {
+  "hc_code": 161,
+  "chips": "AAA0058YFJH"
+ },
+ {
+  "hc_code": 162,
+  "chips": "AAA0062YJB"
+ },
+ {
+  "hc_code": 163,
+  "chips": "AAA0072ZKBR"
+ },
+ {
+  "hc_code": 164,
+  "chips": "AAA0154AKXR"
+ },
+ {
+  "hc_code": 165,
+  "chips": "AAA0021RYAF"
+ },
+ {
+  "hc_code": 166,
+  "chips": "AAA0044DTUZ"
+ },
+ {
+  "hc_code": 167,
+  "chips": "AAA0166BCTO"
+ },
+ {
+  "hc_code": 168,
+  "chips": "AAA0001NNHK"
+ },
+ {
+  "hc_code": 169,
+  "chips": "AAA0229EYPA"
+ },
+ {
+  "hc_code": 170,
+  "chips": "AAA0161PATD"
+ },
+ {
+  "hc_code": 171,
+  "chips": "AAA0183OZNX"
+ },
+ {
+  "hc_code": 172,
+  "chips": "AAA0058EHLW,AAA0058EFKL,AAA0058EFJH,AAA0058EFHY"
+ },
+ {
+  "hc_code": 173,
+  "chips": "AAA0016WYYN"
+ },
+ {
+  "hc_code": 174,
+  "chips": "AAA0080CAXR"
+ },
+ {
+  "hc_code": 175,
+  "chips": "AAA0032RUCX"
+ },
+ {
+  "hc_code": 176,
+  "chips": "AAA0256UNCX"
+ },
+ {
+  "hc_code": 178,
+  "chips": "AAA0078WWTD"
+ },
+ {
+  "hc_code": 179,
+  "chips": "AAA0180ANRU"
+ },
+ {
+  "hc_code": 180,
+  "chips": "AAA0061DSRU"
+ },
+ {
+  "hc_code": 181,
+  "chips": "AAA0239TNCX"
+ },
+ {
+  "hc_code": 182,
+  "chips": "AAA0180UEMR"
+ },
+ {
+  "hc_code": 183,
+  "chips": "AAA0014PNRJ"
+ },
+ {
+  "hc_code": 184,
+  "chips": "AAA0100HYFT"
+ },
+ {
+  "hc_code": 185,
+  "chips": "AAA0203SPSK"
+ },
+ {
+  "hc_code": 186,
+  "chips": "AAA0163BPJH"
+ },
+ {
+  "hc_code": 187,
+  "chips": "AAA0008BETD,AAA0189NJOE"
+ },
+ {
+  "hc_code": 188,
+  "chips": "AAA0163BSSY,AAA0163BSTD"
+ },
+ {
+  "hc_code": 189,
+  "chips": "AAA0131HJEP"
+ },
+ {
+  "hc_code": 190,
+  "chips": "AAA0077HWAW"
+ },
+ {
+  "hc_code": 191,
+  "chips": "AAA0225YTCX,AAA0143JEDE,AAA0226EZPA"
+ },
+ {
+  "hc_code": 192,
+  "chips": "AAA0187HTOE"
+ },
+ {
+  "hc_code": 193,
+  "chips": "AAA0035RTFT"
+ },
+ {
+  "hc_code": 194,
+  "chips": "AAA0085PYUZ"
+ },
+ {
+  "hc_code": 195,
+  "chips": "AAA0154EDDE"
+ },
+ {
+  "hc_code": 196,
+  "chips": "AAA0180UFDM"
+ },
+ {
+  "hc_code": 197,
+  "chips": "AAA0113NDNX,AAA0113NDMR"
+ },
+ {
+  "hc_code": 198,
+  "chips": "AAA0025YOTD"
+ },
+ {
+  "hc_code": 199,
+  "chips": "AAA0068XHSK"
+ },
+ {
+  "hc_code": 200,
+  "chips": "AAA0083JKLW"
+ },
+ {
+  "hc_code": 201,
+  "chips": "AAA0218OPBR"
+ },
+ {
+  "hc_code": 202,
+  "chips": "AAA0155HOJH"
+ },
+ {
+  "hc_code": 203,
+  "chips": "AAA0130ATBS"
+ },
+ {
+  "hc_code": 204,
+  "chips": "AAA0067BPWW,AAA0140KHMS,AAA0259ZFCX"
+ },
+ {
+  "hc_code": 205,
+  "chips": "AAA0222WZKC"
+ },
+ {
+  "hc_code": 206,
+  "chips": "AAA0022FEJZ"
+ },
+ {
+  "hc_code": 207,
+  "chips": "AAA0204PTOE,AAA0097EHCN"
+ },
+ {
+  "hc_code": 208,
+  "chips": "AAA0139DXPA"
+ },
+ {
+  "hc_code": 209,
+  "chips": "AAA0084SXHK"
+ },
+ {
+  "hc_code": 210,
+  "chips": "AAA0072NAFT"
+ },
+ {
+  "hc_code": 211,
+  "chips": "AAA0159YUKC,AAA0042BLJH"
+ },
+ {
+  "hc_code": 212,
+  "chips": "AAA0178FSKC"
+ },
+ {
+  "hc_code": 213,
+  "chips": "AAA0145KHOM"
+ },
+ {
+  "hc_code": 214,
+  "chips": "AAA0032SSUH"
+ },
+ {
+  "hc_code": 216,
+  "chips": "AAA0241SCAW"
+ },
+ {
+  "hc_code": 217,
+  "chips": "AAA0057PHCX"
+ },
+ {
+  "hc_code": 218,
+  "chips": "AAA0083JSRU"
+ },
+ {
+  "hc_code": 219,
+  "chips": "AAA0142LOFT"
+ },
+ {
+  "hc_code": 220,
+  "chips": "AAA0256CUYN,AAA0256CUXS"
+ },
+ {
+  "hc_code": 221,
+  "chips": "AAA0261YUKC"
+ },
+ {
+  "hc_code": 222,
+  "chips": "AAA0142XWZM"
+ },
+ {
+  "hc_code": 223,
+  "chips": "AAA0035PASY"
+ },
+ {
+  "hc_code": 224,
+  "chips": "AAA0016WDFT,AAA0016WDEA"
+ },
+ {
+  "hc_code": 225,
+  "chips": "AAA0103BZOE"
+ },
+ {
+  "hc_code": 226,
+  "chips": "AAA0018BBAW"
+ },
+ {
+  "hc_code": 227,
+  "chips": "AAA0011RSDE"
+ },
+ {
+  "hc_code": 228,
+  "chips": "AAA0137OLRU"
+ },
+ {
+  "hc_code": 229,
+  "chips": "AAA0029HZXS"
+ },
+ {
+  "hc_code": 230,
+  "chips": "AAA0072YEOM,AAA0072YENX,AAA0072YEMR"
+ },
+ {
+  "hc_code": 231,
+  "chips": "AAA0164CSCN"
+ },
+ {
+  "hc_code": 232,
+  "chips": "AAA0017CDPA"
+ },
+ {
+  "hc_code": 233,
+  "chips": "AAA0175MBPP"
+ },
+ {
+  "hc_code": 234,
+  "chips": "AAA0177PZDE"
+ },
+ {
+  "hc_code": 235,
+  "chips": "AAA0180TYBR"
+ },
+ {
+  "hc_code": 236,
+  "chips": "AAA0223PCUZ"
+ },
+ {
+  "hc_code": 237,
+  "chips": "AAA0041ZUAF"
+ },
+ {
+  "hc_code": 238,
+  "chips": "AAA0160MJUZ"
+ },
+ {
+  "hc_code": 239,
+  "chips": "AAA0060PCDEAAA0060PCEP"
+ },
+ {
+  "hc_code": 240,
+  "chips": "AAA0160FKYX"
+ },
+ {
+  "hc_code": 241,
+  "chips": "AAA0204FHDM"
+ },
+ {
+  "hc_code": 242,
+  "chips": "AAA0065XKLW"
+ },
+ {
+  "hc_code": 243,
+  "chips": "AAA0217RJKL"
+ },
+ {
+  "hc_code": 244,
+  "chips": "AAA0154NSWW"
+ },
+ {
+  "hc_code": 245,
+  "chips": "AAA0162KLMS"
+ },
+ {
+  "hc_code": 246,
+  "chips": "AAA0073RZAF"
+ },
+ {
+  "hc_code": 247,
+  "chips": "AAA0167LZLW"
+ },
+ {
+  "hc_code": 248,
+  "chips": "AAA0165XTFT"
+ },
+ {
+  "hc_code": 249,
+  "chips": "AAA0018TEKL"
+ },
+ {
+  "hc_code": 250,
+  "chips": "AAA0144LPFZ,AAA0117JYFT,AAA0162UNXR"
+ },
+ {
+  "hc_code": 251,
+  "chips": "AAA0195KYLF"
+ },
+ {
+  "hc_code": 252,
+  "chips": "AAA0177BDXS"
+ },
+ {
+  "hc_code": 253,
+  "chips": "AAA0177PPUH"
+ },
+ {
+  "hc_code": 254,
+  "chips": "AAA0040BMFZ,AAA0040BMEP,AAA0040BMDE,AAA0040BMCN,AAA0040BMBS,AAA0040BMHK,AAA0040BMAW"
+ },
+ {
+  "hc_code": 255,
+  "chips": "AAA0206DHEA"
+ },
+ {
+  "hc_code": 256,
+  "chips": "AAA0258OWEP"
+ },
+ {
+  "hc_code": 257,
+  "chips": "AAA0160AEMR"
+ },
+ {
+  "hc_code": 258,
+  "chips": "AAA0168LJRJ,AAA0041WLMS"
+ },
+ {
+  "hc_code": 259,
+  "chips": "AAA0122DDLF"
+ },
+ {
+  "hc_code": 260,
+  "chips": "AAA0129HKCN"
+ },
+ {
+  "hc_code": 261,
+  "chips": "AAA0213OZLF"
+ },
+ {
+  "hc_code": 262,
+  "chips": "AAA0191WBWF"
+ },
+ {
+  "hc_code": 263,
+  "chips": "AAA0064YPNX"
+ },
+ {
+  "hc_code": 264,
+  "chips": "AAA0073RZWF"
+ },
+ {
+  "hc_code": 265,
+  "chips": "AAA0001OOJZ"
+ },
+ {
+  "hc_code": 266,
+  "chips": "AAA0034XSKL"
+ },
+ {
+  "hc_code": 267,
+  "chips": "AAA0008UHBS"
+ },
+ {
+  "hc_code": 268,
+  "chips": "AAA0061YHLW"
+ },
+ {
+  "hc_code": 269,
+  "chips": "AAA0003WWFZ"
+ },
+ {
+  "hc_code": 270,
+  "chips": "AAA0162LJUH,AAA0082CNLF,AAA0082CNOM"
+ },
+ {
+  "hc_code": 271,
+  "chips": "AAA0206LBNN"
+ },
+ {
+  "hc_code": 272,
+  "chips": "AAA0168LEAF"
+ },
+ {
+  "hc_code": 273,
+  "chips": "AAA0013KDFZ,AAA0013KDEP"
+ },
+ {
+  "hc_code": 274,
+  "chips": "AAA0056OHCX"
+ },
+ {
+  "hc_code": 275,
+  "chips": "AAA0015THHY,AAA0015THFT"
+ },
+ {
+  "hc_code": 276,
+  "chips": "AAA0229MNLW"
+ },
+ {
+  "hc_code": 277,
+  "chips": "AAA0179BDTD"
+ },
+ {
+  "hc_code": 278,
+  "chips": "AAA0117SPMS"
+ },
+ {
+  "hc_code": 279,
+  "chips": "AAA0082TBRU,AAA0082TBSK,AAA0082TBTO"
+ },
+ {
+  "hc_code": 280,
+  "chips": "AAA0015SWEA"
+ },
+ {
+  "hc_code": 281,
+  "chips": "AAA0056DWHY,AAA0056DWEA"
+ },
+ {
+  "hc_code": 282,
+  "chips": "AAA0148JCBR"
+ },
+ {
+  "hc_code": 283,
+  "chips": "AAA0085TCLW"
+ },
+ {
+  "hc_code": 284,
+  "chips": "AAA0083NLZE"
+ },
+ {
+  "hc_code": 285,
+  "chips": "AAA0011UAEA"
+ },
+ {
+  "hc_code": 286,
+  "chips": "AAA0065BJEP"
+ },
+ {
+  "hc_code": 287,
+  "chips": "AAA0054FBPA,AAA0210WDWF"
+ },
+ {
+  "hc_code": 288,
+  "chips": "AAA0057ZBNN"
+ },
+ {
+  "hc_code": 289,
+  "chips": "AAA0088TFOE"
+ },
+ {
+  "hc_code": 290,
+  "chips": "AAA0044DKJZ,AAA0044DKKC"
+ },
+ {
+  "hc_code": 291,
+  "chips": "AAA0015YWHY"
+ },
+ {
+  "hc_code": 292,
+  "chips": "AAA0105SOPP"
+ },
+ {
+  "hc_code": 293,
+  "chips": "AAA0163LKMR,AAA0013WWRU"
+ },
+ {
+  "hc_code": 295,
+  "chips": "AAA0020TCSY"
+ },
+ {
+  "hc_code": 296,
+  "chips": "AAA0016WCBS"
+ },
+ {
+  "hc_code": 297,
+  "chips": "AAA0265ABMS"
+ },
+ {
+  "hc_code": 298,
+  "chips": "AAA0068TYDE"
+ },
+ {
+  "hc_code": 299,
+  "chips": "AAA0068YJXS,AAA0068YJYN,AAA0068YJZE,AAA0068YKAF"
+ },
+ {
+  "hc_code": 300,
+  "chips": "AAA0037PCSY"
+ },
+ {
+  "hc_code": 301,
+  "chips": "AAA0083NALW,AAA0083NAKL,AAA0083NAMS,AAA0248ARBS,AAA0248ARAW"
+ },
+ {
+  "hc_code": 302,
+  "chips": "AAA0167JHDM,AAA0100FBRJ,AAA0100FBPA,AAA0100FBOM"
+ },
+ {
+  "hc_code": 303,
+  "chips": "AAA0158HYXS,AAA0158HYRJ,AAA0158HYSY,AAA0158HYTD,AAA0158HYUH"
+ },
+ {
+  "hc_code": 304,
+  "chips": "AAA0092NEMS,AAA0092NENN,AAA0092NEOE"
+ },
+ {
+  "hc_code": 305,
+  "chips": "AAA0221TYMS"
+ },
+ {
+  "hc_code": 306,
+  "chips": "AAA0267AEJZ"
+ },
+ {
+  "hc_code": 307,
+  "chips": "AAA0050YDNN"
+ },
+ {
+  "hc_code": 308,
+  "chips": "AAA0078TUTO"
+ },
+ {
+  "hc_code": 309,
+  "chips": "AAA0057HCDE"
+ },
+ {
+  "hc_code": 310,
+  "chips": "AAA0188OTUZ"
+ },
+ {
+  "hc_code": 311,
+  "chips": "AAA0163TOTD"
+ },
+ {
+  "hc_code": 313,
+  "chips": "AAA0066EOLW"
+ },
+ {
+  "hc_code": 314,
+  "chips": "AAA0039XPJH"
+ },
+ {
+  "hc_code": 315,
+  "chips": "AAA0061LUDM,AAA0061LUEA,,AAA0061LUFT"
+ },
+ {
+  "hc_code": 316,
+  "chips": "AAA0012ORCX"
+ },
+ {
+  "hc_code": 317,
+  "chips": "AAA0131EYCN"
+ },
+ {
+  "hc_code": 318,
+  "chips": "AAA0160UJMS"
+ },
+ {
+  "hc_code": 319,
+  "chips": "AAA0050HBHK"
+ },
+ {
+  "hc_code": 320,
+  "chips": "AAA0075WLCN"
+ },
+ {
+  "hc_code": 321,
+  "chips": "AAA0038FLZE"
+ },
+ {
+  "hc_code": 323,
+  "chips": "AAA0001BUUZ"
+ },
+ {
+  "hc_code": 324,
+  "chips": "AAA0001XANN"
+ },
+ {
+  "hc_code": 325,
+  "chips": "AAA0077WREP"
+ },
+ {
+  "hc_code": 326,
+  "chips": "AAA0201DLBS"
+ },
+ {
+  "hc_code": 327,
+  "chips": "AAA0186EWOM"
+ },
+ {
+  "hc_code": 328,
+  "chips": "AAA0050YDFT"
+ },
+ {
+  "hc_code": 329,
+  "chips": "AAA0222LSMR"
+ },
+ {
+  "hc_code": 330,
+  "chips": "AAA0123SXBS"
+ },
+ {
+  "hc_code": 331,
+  "chips": "AAA0125EMTO"
+ },
+ {
+  "hc_code": 332,
+  "chips": "AAA0032RZUH,AAA0032RZTD"
+ },
+ {
+  "hc_code": 333,
+  "chips": "AAA0074FKCX"
+ },
+ {
+  "hc_code": 334,
+  "chips": "AAA0101HDTO,AAA0101HDSK"
+ },
+ {
+  "hc_code": 335,
+  "chips": "AAA0198NUSY,AAA0198YKUZ,AAA0131JFMR,AAA0169UORU,AAA0131JFKC,AAA0131JNPA"
+ },
+ {
+  "hc_code": 336,
+  "chips": "AAA0133UCLF"
+ },
+ {
+  "hc_code": 337,
+  "chips": "AAA0079SSBR,AAA0207MOYN"
+ },
+ {
+  "hc_code": 338,
+  "chips": "AAA0065UDNN"
+ },
+ {
+  "hc_code": 339,
+  "chips": "AAA0038AWWW"
+ },
+ {
+  "hc_code": 340,
+  "chips": "AAA0142KLWF"
+ },
+ {
+  "hc_code": 342,
+  "chips": "AAA0177AZOE"
+ },
+ {
+  "hc_code": 343,
+  "chips": "AAA0102ZJAW"
+ },
+ {
+  "hc_code": 344,
+  "chips": "AAA0212SFSK"
+ },
+ {
+  "hc_code": 345,
+  "chips": "AAA0157RFPA"
+ },
+ {
+  "hc_code": 346,
+  "chips": "AAA0175BDPA,AAA0175BDOM"
+ },
+ {
+  "hc_code": 347,
+  "chips": "AAA0155EHNN"
+ },
+ {
+  "hc_code": 348,
+  "chips": "AAA0106CSLF"
+ },
+ {
+  "hc_code": 349,
+  "chips": "AAA0209PYEA"
+ },
+ {
+  "hc_code": 350,
+  "chips": "AAA0079DULF"
+ },
+ {
+  "hc_code": 351,
+  "chips": "AAA0088ZMWW"
+ },
+ {
+  "hc_code": 352,
+  "chips": "AAA0120DLZE"
+ },
+ {
+  "hc_code": 353,
+  "chips": "AAA0241XOKL"
+ },
+ {
+  "hc_code": 354,
+  "chips": "AAA0011ZEMR,AAA0011ZFPP"
+ },
+ {
+  "hc_code": 355,
+  "chips": "AAA0186SFSK,AAA0086TOSY"
+ },
+ {
+  "hc_code": 356,
+  "chips": "AAA0059PYCN"
+ },
+ {
+  "hc_code": 357,
+  "chips": "AAA0169ATEP"
+ },
+ {
+  "hc_code": 358,
+  "chips": "AAA0240ZWYN"
+ },
+ {
+  "hc_code": 359,
+  "chips": "AAA0080CAXR"
+ },
+ {
+  "hc_code": 360,
+  "chips": "AAA0179LAKL"
+ },
+ {
+  "hc_code": 361,
+  "chips": "AAA0110WYOE"
+ },
+ {
+  "hc_code": 362,
+  "chips": "AAA0078WXRU"
+ },
+ {
+  "hc_code": 363,
+  "chips": "AAA0115YDBR"
+ },
+ {
+  "hc_code": 364,
+  "chips": "AAA0275AKWF"
+ },
+ {
+  "hc_code": 365,
+  "chips": "AAA0165SANN"
+ },
+ {
+  "hc_code": 366,
+  "chips": "AAA0154LSPA"
+ },
+ {
+  "hc_code": 367,
+  "chips": "AAA0254TEBR"
+ },
+ {
+  "hc_code": 368,
+  "chips": "AAA0126MSDE"
+ },
+ {
+  "hc_code": 369,
+  "chips": "AAA0030ELRU,AAA0030ELXR,AAA0030ELYX,AAA0030ELUZ,AAA0030EMTD,AAA0030EMUH,AAA0030ELTO,AAA0030ELSK"
+ },
+ {
+  "hc_code": 370,
+  "chips": "AAA0057ZWAW"
+ },
+ {
+  "hc_code": 371,
+  "chips": "AAA0170DYOM"
+ },
+ {
+  "hc_code": 372,
+  "chips": "AAA0045YATD"
+ },
+ {
+  "hc_code": 373,
+  "chips": "AAA0064OZYN"
+ },
+ {
+  "hc_code": 375,
+  "chips": "AAA0182CTWF"
+ },
+ {
+  "hc_code": 376,
+  "chips": "AAA0167RHSK"
+ },
+ {
+  "hc_code": 377,
+  "chips": "AAA0163HAKC,AAA0163HAJZ"
+ },
+ {
+  "hc_code": 378,
+  "chips": "AAA0079BDAF"
+ },
+ {
+  "hc_code": 379,
+  "chips": "AAA0125CMUZ"
+ },
+ {
+  "hc_code": 380,
+  "chips": "AAA0108KWWW"
+ },
+ {
+  "hc_code": 381,
+  "chips": "AAA0155HYZM"
+ },
+ {
+  "hc_code": 382,
+  "chips": "AAA0229BMCX"
+ },
+ {
+  "hc_code": 383,
+  "chips": "AAA0080EJAW"
+ },
+ {
+  "hc_code": 384,
+  "chips": "AAA0186WRPP"
+ },
+ {
+  "hc_code": 385,
+  "chips": "AAA0120ELSK"
+ },
+ {
+  "hc_code": 386,
+  "chips": "AAA0007YTNN"
+ },
+ {
+  "hc_code": 387,
+  "chips": "AAA0209MZJH"
+ },
+ {
+  "hc_code": 388,
+  "chips": "AAA0145ACJH,AAA0145ACHY,AAA0005FYBR,AAA0145ACFT"
+ },
+ {
+  "hc_code": 389,
+  "chips": "AAA0140HNLF"
+ },
+ {
+  "hc_code": 390,
+  "chips": "AAA0128SRHY,AAA0131KTNN,AAA0131KTOE"
+ },
+ {
+  "hc_code": 391,
+  "chips": "AAA0035RSKC"
+ },
+ {
+  "hc_code": 392,
+  "chips": "AAA0180AOZE,AAA0180AOXS,"
+ },
+ {
+  "hc_code": 393,
+  "chips": "AAA0035YAZM"
+ },
+ {
+  "hc_code": 394,
+  "chips": "AAA0115XOSK"
+ },
+ {
+  "hc_code": 395,
+  "chips": "AAA0020ZCRJ"
+ },
+ {
+  "hc_code": 396,
+  "chips": "AAA0055CYAF"
+ },
+ {
+  "hc_code": 397,
+  "chips": "AAA0011UFEP"
+ },
+ {
+  "hc_code": 398,
+  "chips": "AAA0035TFXR"
+ },
+ {
+  "hc_code": 399,
+  "chips": "AAA0141UWRU,AAA0259RSKC,AAA0141UWTO"
+ },
+ {
+  "hc_code": 400,
+  "chips": "AAA0202UWUZ"
+ },
+ {
+  "hc_code": 401,
+  "chips": "AAA0116RNSK"
+ },
+ {
+  "hc_code": 403,
+  "chips": "AAA0137OLRU"
+ },
+ {
+  "hc_code": 404,
+  "chips": "AAA0123FNDM"
+ },
+ {
+  "hc_code": 405,
+  "chips": "AAA0024BJOE"
+ },
+ {
+  "hc_code": 407,
+  "chips": "AAA0127JDPP"
+ },
+ {
+  "hc_code": 408,
+  "chips": "AAA0080RWBS"
+ },
+ {
+  "hc_code": 409,
+  "chips": "AAA0141CZWW"
+ },
+ {
+  "hc_code": 410,
+  "chips": "AAA0058RREP"
+ },
+ {
+  "hc_code": 411,
+  "chips": "AAA0074ARMS"
+ },
+ {
+  "hc_code": 412,
+  "chips": "AAA0143DEKC"
+ },
+ {
+  "hc_code": 413,
+  "chips": "AAA0140HNHK"
+ },
+ {
+  "hc_code": 414,
+  "chips": "AAA0263AWHK"
+ },
+ {
+  "hc_code": 415,
+  "chips": "AAA0191PODM"
+ },
+ {
+  "hc_code": 416,
+  "chips": "AAA0021TSCX"
+ },
+ {
+  "hc_code": 417,
+  "chips": "AAA0004YMKL,AAA0004YMHY,AAA0004YMEA,AAA0004YMCX,AAA0004YMBR,AAA0004YMAF,AAA0004YLZE"
+ },
+ {
+  "hc_code": 418,
+  "chips": "AAA0011UPAW"
+ },
+ {
+  "hc_code": 419,
+  "chips": "AAA0037OZUH"
+ },
+ {
+  "hc_code": 420,
+  "chips": "AAA0232BZSY"
+ },
+ {
+  "hc_code": 421,
+  "chips": "AAA0001XWXR"
+ },
+ {
+  "hc_code": 422,
+  "chips": "AAA0160WYPA"
+ },
+ {
+  "hc_code": 423,
+  "chips": "AAA0074ARUZ,AAA0174EOPP,AAA0074ARTO"
+ },
+ {
+  "hc_code": 424,
+  "chips": "AAA0073SHNX"
+ },
+ {
+  "hc_code": 425,
+  "chips": "AAA0206KEFT"
+ },
+ {
+  "hc_code": 426,
+  "chips": "AAA0158LCFZ"
+ },
+ {
+  "hc_code": 427,
+  "chips": "AAA0181UTTD"
+ },
+ {
+  "hc_code": 428,
+  "chips": "AAA0034NFRJ"
+ },
+ {
+  "hc_code": 429,
+  "chips": "AAA0222RHOE"
+ },
+ {
+  "hc_code": 430,
+  "chips": "AAA0018SLNN"
+ },
+ {
+  "hc_code": 431,
+  "chips": "AAA0065UHEA"
+ },
+ {
+  "hc_code": 432,
+  "chips": "AAA0207FZAW"
+ },
+ {
+  "hc_code": 433,
+  "chips": "AAA0195CXBR,AAA0129CZJZ"
+ },
+ {
+  "hc_code": 434,
+  "chips": "AAA0101SBMR"
+ },
+ {
+  "hc_code": 435,
+  "chips": "AAA0141CSLW"
+ },
+ {
+  "hc_code": 436,
+  "chips": "AAA0003TERU"
+ },
+ {
+  "hc_code": 437,
+  "chips": "AAA0004UMHY,AAA0004UMJH"
+ },
+ {
+  "hc_code": 438,
+  "chips": "AAA0137PDXS"
+ },
+ {
+  "hc_code": 439,
+  "chips": "AAA0168CMCN"
+ },
+ {
+  "hc_code": 440,
+  "chips": "AAA0231SFMR,AAA0140ETMS,AAA0140ETLW,AAA0223LBDE,AAA0140ETKL"
+ },
+ {
+  "hc_code": 441,
+  "chips": "AAA0245LUWF"
+ },
+ {
+  "hc_code": 442,
+  "chips": "AAA0023NJKC"
+ },
+ {
+  "hc_code": 443,
+  "chips": "AAA0080CBHK"
+ },
+ {
+  "hc_code": 444,
+  "chips": "AAA0017WFKC"
+ },
+ {
+  "hc_code": 445,
+  "chips": "AAA0140JNNX"
+ },
+ {
+  "hc_code": 446,
+  "chips": "AAA0232JNJZ"
+ },
+ {
+  "hc_code": 447,
+  "chips": "AAA0061ELTO"
+ },
+ {
+  "hc_code": 448,
+  "chips": "AAA0183RZYX"
+ },
+ {
+  "hc_code": 449,
+  "chips": "AAA0140ERHY"
+ },
+ {
+  "hc_code": 450,
+  "chips": "AAA0140EREAAAA0140ERFTAAA0140ERHY"
+ },
+ {
+  "hc_code": 451,
+  "chips": "AAA0117EYPA"
+ },
+ {
+  "hc_code": 452,
+  "chips": "AAA0160WYPA"
+ },
+ {
+  "hc_code": 453,
+  "chips": "AAA0139KECN"
+ },
+ {
+  "hc_code": 454,
+  "chips": "AAA0191OAHK"
+ },
+ {
+  "hc_code": 455,
+  "chips": "AAA0068TYDE"
+ },
+ {
+  "hc_code": 456,
+  "chips": "AAA0212FDCN"
+ },
+ {
+  "hc_code": 457,
+  "chips": "AAA0097DYTD,AAA0097DYUH"
+ },
+ {
+  "hc_code": 458,
+  "chips": "AAA0013LWUH,AAA0204BYBS,AAA0204BYAW"
+ },
+ {
+  "hc_code": 459,
+  "chips": "AAA0199BREP,AAA0165ZYZE,AAA0178UJNX"
+ },
+ {
+  "hc_code": 460,
+  "chips": "AAA0082NLHY"
+ },
+ {
+  "hc_code": 461,
+  "chips": "AAA0082NLHY"
+ },
+ {
+  "hc_code": 462,
+  "chips": "AAA0041TUPP,AAA0041TUNN,,AAA0041TUMS,,AAA0041TUJH,"
+ },
+ {
+  "hc_code": 463,
+  "chips": "AAA0140EWFZ"
+ },
+ {
+  "hc_code": 464,
+  "chips": "AAA0108FNWW"
+ },
+ {
+  "hc_code": 465,
+  "chips": "AAA0144ZTPA,AAA0005FXAW,,AAA0144ZTRJ,AAA0144ZTSY,AAA0144ZSPP,AAA0144ZSRU,AAA0144ZSOE,,AAA0144ZSNN,,AAA0144ZSMS,,AAA0144ZTTD,,AAA0144ZSLW"
+ },
+ {
+  "hc_code": 466,
+  "chips": "AAA0006NBZM"
+ },
+ {
+  "hc_code": 467,
+  "chips": "AAA0223PEAF,AAA0223PEBR"
+ },
+ {
+  "hc_code": 468,
+  "chips": "AAA0139KEDE"
+ },
+ {
+  "hc_code": 469,
+  "chips": "AAA0020ZCRJ"
+ },
+ {
+  "hc_code": 470,
+  "chips": "AAA0141DHHY"
+ },
+ {
+  "hc_code": 471,
+  "chips": "AAA0000ASEA,AAA0000APWW,AAA0166EUCN,AAA0000APHK,AAA0000APJZ,AAA0000APKC,AAA0000APLF"
+ },
+ {
+  "hc_code": 472,
+  "chips": "AAA0074TUKL"
+ },
+ {
+  "hc_code": 473,
+  "chips": "AAA0001UHRU,AAA0001UHPP,AAA0001UHOE"
+ },
+ {
+  "hc_code": 474,
+  "chips": "AAA0074MDJH,AAA0074MDOE,AAA0074MDLW"
+ },
+ {
+  "hc_code": 475,
+  "chips": "AAA0160UEHK"
+ },
+ {
+  "hc_code": 476,
+  "chips": "AAA0074MDMS"
+ },
+ {
+  "hc_code": 477,
+  "chips": "AC1617B55"
+ },
+ {
+  "hc_code": 478,
+  "chips": "AAA0140JONN,AAA0140JMFT"
+ },
+ {
+  "hc_code": 479,
+  "chips": "AAA0137OLRU,AAA0137OLPP"
+ },
+ {
+  "hc_code": 480,
+  "chips": "AAA0155HYZM"
+ },
+ {
+  "hc_code": 481,
+  "chips": "AAA0051ELAW"
+ },
+ {
+  "hc_code": 482,
+  "chips": "AAA0054LWTO"
+ },
+ {
+  "hc_code": 483,
+  "chips": "AAA0033HTSK"
+ },
+ {
+  "hc_code": 484,
+  "chips": "AAA0079TJAF,AAA0079THZM"
+ },
+ {
+  "hc_code": 485,
+  "chips": "AAA0199BEPP"
+ },
+ {
+  "hc_code": 486,
+  "chips": "AAA0146NTYN,AAA0146NTWW,AAA0230NBEP"
+ },
+ {
+  "hc_code": 487,
+  "chips": "AAA0188JCNN"
+ },
+ {
+  "hc_code": 488,
+  "chips": "AAA0217LRSK"
+ },
+ {
+  "hc_code": 489,
+  "chips": "AAA0101SBMR"
+ },
+ {
+  "hc_code": 490,
+  "chips": "AAA0073SUHY,AAA0073SUJH"
+ },
+ {
+  "hc_code": 491,
+  "chips": "AAA0080LTTO"
+ },
+ {
+  "hc_code": 492,
+  "chips": "AAA0065UDNN"
+ },
+ {
+  "hc_code": 493,
+  "chips": "AAA0256REFT"
+ },
+ {
+  "hc_code": 494,
+  "chips": "AAA0262OMOE(Noexistepredio),AAA0262OMPP"
+ },
+ {
+  "hc_code": 495,
+  "chips": "AAA0264MDXS"
+ },
+ {
+  "hc_code": 496,
+  "chips": "AAA0074TULW"
+ },
+ {
+  "hc_code": 497,
+  "chips": "AAA0008AFHK,AAA0008AFFZ,AAA0008AFEP,AAA0008AFDE"
+ },
+ {
+  "hc_code": 499,
+  "chips": "AAA0116WXUH"
+ },
+ {
+  "hc_code": 500,
+  "chips": "AAA0142YRSK"
+ },
+ {
+  "hc_code": 501,
+  "chips": "AAA0148UKYN"
+ },
+ {
+  "hc_code": 502,
+  "chips": "AAA0141CXNX"
+ },
+ {
+  "hc_code": 503,
+  "chips": "AAA0079ZLZM,AAA0079ZLXR"
+ },
+ {
+  "hc_code": 504,
+  "chips": "AAA0143HKTD"
+ },
+ {
+  "hc_code": 505,
+  "chips": "AAA0198ZEFZ"
+ },
+ {
+  "hc_code": 506,
+  "chips": "AAA0080OYZM,AAA0080OZAW,AAA0080OZBS"
+ },
+ {
+  "hc_code": 508,
+  "chips": "AAA0190UCLW"
+ },
+ {
+  "hc_code": 509,
+  "chips": "AAA0052YKJZ"
+ },
+ {
+  "hc_code": 510,
+  "chips": "AAA0153NNLF"
+ },
+ {
+  "hc_code": 511,
+  "chips": "AAA0143SWSK"
+ },
+ {
+  "hc_code": 513,
+  "chips": "AAA0020TFTO,AAA0020TFUZ,AAA0020TFXR,AAA0020TFYX,AAA0020TFZM"
+ },
+ {
+  "hc_code": 514,
+  "chips": "AAA0051UBXS"
+ },
+ {
+  "hc_code": 516,
+  "chips": "AAA0041SFWF,AAA0041SFUZ,AAA0041SFTO"
+ },
+ {
+  "hc_code": 517,
+  "chips": "AAA0247UJZM,AAA0234DZEP,AAA0228SKFT,AAA0228SKHY,AAA0228SKJH,AAA0228SKKL,AAA0228SKDM,AAA0228SKCX,AAA0228SKBR,AAA0228SKAF"
+ }
+]
